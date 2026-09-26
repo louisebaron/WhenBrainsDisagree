@@ -1,5 +1,5 @@
-# When Brains Disagree
-## Biological Ambiguity Underlies the Challenge of Amyloid PET Synthesis from Structural MRI - MICCAI 2026 (Oral) / [arXiv preprint](https://arxiv.org/abs/2605.11867)
+# When Brains Disagree (MICCAI 2026)
+## Biological Ambiguity Underlies the Challenge of Amyloid PET Synthesis from Structural MRI 
 
 Louise E. G. Baron<sup>1,2</sup>, Ross Callaghan<sup>3</sup>, David M. Cash<sup>4,5</sup>, Philip S. J. Weston<sup>4,5</sup>, Hojjat Azadbakht<sup>3</sup>, Hui Zhang<sup>1,6</sup>
 
@@ -10,7 +10,7 @@ Louise E. G. Baron<sup>1,2</sup>, Ross Callaghan<sup>3</sup>, David M. Cash<sup>
 <sup>5</sup> UK Dementia Research Institute, London, UK  
 <sup>6</sup> Department of Computer Science, University College London, UK
 
-
+[arXiv preprint](https://arxiv.org/abs/2605.11867)
 
 ## Code
 
