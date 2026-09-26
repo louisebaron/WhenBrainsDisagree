@@ -1,6 +1,5 @@
 # When Brains Disagree
-
-**Biological Ambiguity Underlies the Challenge of Amyloid PET Synthesis from Structural MRI**
+### Biological Ambiguity Underlies the Challenge of Amyloid PET Synthesis from Structural MRI
 
 MICCAI 2026 accepted paper (Oral) [arXiv preprint](https://arxiv.org/abs/2605.11867)
 
